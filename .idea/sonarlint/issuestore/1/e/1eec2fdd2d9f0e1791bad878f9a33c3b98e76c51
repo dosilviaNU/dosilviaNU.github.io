@@ -1,0 +1,26 @@
+
+]javascript:S2814"CRename "i" as this name is already used in declaration at line 331.(ßƒâ
+]javascript:S2814"CRename "i" as this name is already used in declaration at line 202.(ßƒâ
+]javascript:S2814"CRename "i" as this name is already used in declaration at line 202.(ßƒâ
+]javascript:S2814"CRename "i" as this name is already used in declaration at line 202.(ºœ¢±
+gjavascript:S2814"HRename "filter" as this name is already used in declaration at line 211.(ÓşÈ³ùÿÿÿÿ
+ujavascript:NestedIfDepth"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¬à³‰ûÿÿÿÿ
+pjavascript:NestedIfDepth"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ßƒâ
+pjavascript:NestedIfDepth"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ßƒâ
+[javascript:SwitchWithoutDefault"2Add a "default" clause to this "switch" statement.(ÚÜ¨
+[javascript:SwitchWithoutDefault"2Add a "default" clause to this "switch" statement.(ÚÜ¨
+[javascript:SwitchWithoutDefault"2Add a "default" clause to this "switch" statement.(óñçà
+8javascript:S2228"Remove this logging statement.( Îâ¿
+\!javascript:UnusedFunctionArgument"1Remove the unused function parameter "viewModel".( ÿ¼Ö
+a!javascript:UnusedFunctionArgument"6Remove the unused function parameter "bindingContext".( ÿ¼Ö
+„javascript:S3827"j"ko" does not exist. Change its name or declare it so that its usage doesn't result in a "ReferenceError".(¸’¿é
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+‚javascript:S1871"cEither merge this branch with the identical one on line "408" or change one of the implementations.(¬Ö’˜üÿÿÿÿ
+njavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(åÈø
+`javascript:S1126"AReplace this if-then-else statement by a single return statement.(´¿²ğüÿÿÿÿ
+@javascript:Eval"'Remove this use of the "eval" function.(ÌÁ¥ø
+Ejavascript:Eval"'Remove this use of the "eval" function.(ùªä¡úÿÿÿÿ
+Ejavascript:Eval"'Remove this use of the "eval" function.(ùªä¡úÿÿÿÿ
+@javascript:Eval"'Remove this use of the "eval" function.(ñ‘ı›
+Ejavascript:Eval"'Remove this use of the "eval" function.(ùªä¡úÿÿÿÿ
+zjavascript:S2703"[Add the "let", "const" or "var" keyword to this declaration of "level" to make it explicit.(º¸î©ÿÿÿÿÿ
